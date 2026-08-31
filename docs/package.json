@@ -1,11 +1,11 @@
 {
   "devDependencies": {
-    "@antora/cli": "3.1.10",
-    "@antora/site-generator": "3.1.10"
+    "@antora/cli": "3.2.0",
+    "@antora/site-generator": "3.2.0"
   },
   "dependencies": {
     "@mermaid-js/mermaid-cli": "^11.6.0",
-    "asciidoctor": "^3.0.4",
+    "asciidoctor": "^4.0.11",
     "asciidoctor-kroki": "^0.18.1",
     "phantomjs": "^2.1.7"
   }
